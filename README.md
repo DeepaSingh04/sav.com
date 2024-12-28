@@ -30,7 +30,7 @@ Setup Instructions:
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/react-app.git
+git clone https://github.com/DeepaSingh04/sav.com
 
 2. Install Dependencies
 
